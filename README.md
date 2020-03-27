@@ -15,6 +15,8 @@ for the internship and possibly my future at NASA.
 * Mockito
 * Python
 
+#
+
 **Day 1**: "Hello World" program
 * Languages: C++, Java, Python, Bash
 * Frameworks: None

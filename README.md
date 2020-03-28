@@ -25,4 +25,9 @@ for the internship and possibly my future at NASA.
 **Day 2**: Imperial/Metric BMI Calculator
 * Languages: C++, Java, Python, Bash
 * Frameworks: None
-* Purpose Standard input, conditionals, variables, math operations, namespaces
+* Purpose: Standard input, conditionals, variables, math operations, namespaces
+
+**Day 3**: Fibonacci Sequence (without recursion)
+* Languages: C++, Java, Python, Bash
+* Frameworks: None
+* Purpose: Loops, random numbers, unary operators, error checking

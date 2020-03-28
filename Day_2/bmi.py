@@ -15,6 +15,5 @@ if choice == str(1):
 # Calculate BMI with imperial units
 else:
    height = float(input("\nEnter your height (in): "))
-   print()
    weight = float(input("\nEnter your weight (lbs): "))
    print("BMI: " + str(703.0 * weight / (height * height)))

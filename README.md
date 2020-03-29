@@ -31,3 +31,8 @@ for the internship and possibly my future at NASA.
 * Languages: C++, Java, Python, Bash
 * Frameworks: None
 * Purpose: Loops, random numbers, unary operators, error checking
+
+**Day 4**: Morse Code Translator
+* Languages: C++, Java, Python
+* Frameworks: None
+* Purpose: Functions, Function declarations (C++), Function overloading (Java/C++), Menus, Exceptions (Java/C++), Switch statements (Java/C++)

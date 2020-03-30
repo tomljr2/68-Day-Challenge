@@ -36,3 +36,8 @@ for the internship and possibly my future at NASA.
 * Languages: C++, Java, Python
 * Frameworks: None
 * Purpose: Functions, Function declarations (C++), Function overloading (Java/C++), Menus, Exceptions (Java/C++), Switch statements (Java/C++)
+
+**Day 5**: Circle class
+* Languages: C++, Java, Python
+* Frameworks: None
+* Purpose: Classes / OOP, constructors, access specifiers, constants, preprocessor directives (C++)

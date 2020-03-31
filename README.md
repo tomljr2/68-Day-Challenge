@@ -41,3 +41,9 @@ for the internship and possibly my future at NASA.
 * Languages: C++, Java, Python
 * Frameworks: None
 * Purpose: Classes / OOP, constructors, access specifiers, constants, preprocessor directives (C++)
+
+**Day 6**: Array of different objects
+* Languages: C++, Java, Python
+* Frameworks: None
+* Purpose: Inheritance, virtual functions, data structures
+

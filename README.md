@@ -47,7 +47,7 @@ for the internship and possibly my future at NASA.
 * Frameworks: None
 * Purpose: Inheritance, virtual functions, data structures
 
-**Day 7**: Thread-Safe Vector
+**Day 7**: Thread-Safe Arrays
 * Languages: C++, Java
 * Frameworks: None
 * Purpose: Multithreading, locks, synchronization, operator overloading (C++), generic types, ternary operator (C++)

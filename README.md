@@ -51,3 +51,8 @@ for the internship and possibly my future at NASA.
 * Languages: C++, Java
 * Frameworks: None
 * Purpose: Multithreading, locks, synchronization, operator overloading (C++), generic types, ternary operator (C++)
+
+**Day 8**: Repeat After Me
+* Languages: Java
+* Frameworks: JUnit
+* Purpose: Unit testing, assertEquals, results

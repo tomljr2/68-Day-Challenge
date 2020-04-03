@@ -56,3 +56,8 @@ for the internship and possibly my future at NASA.
 * Languages: Java
 * Frameworks: JUnit
 * Purpose: Unit testing, assertEquals, results
+
+**Day 8**: JUnit Asserts
+* Languages: Java
+* Frameworks: JUnit
+* Purpose: assertArrayEquals, assertFalse, assertNotEquals, assertNotNull, assertNotSame, assertNull, assertSame, assertThrows, assertTrue

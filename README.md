@@ -57,7 +57,12 @@ for the internship and possibly my future at NASA.
 * Frameworks: JUnit
 * Purpose: Unit testing, assertEquals, results
 
-**Day 8**: JUnit Asserts
+**Day 9**: JUnit Asserts
 * Languages: Java
 * Frameworks: JUnit
 * Purpose: assertArrayEquals, assertFalse, assertNotEquals, assertNotNull, assertNotSame, assertNull, assertSame, assertThrows, assertTrue
+
+**Day 10**: Reflex Testing
+* Languages: Java
+* Frameworks: JUnit
+* Purpose: Failures, @Before, @After, Readers, timing

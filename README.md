@@ -66,3 +66,8 @@ for the internship and possibly my future at NASA.
 * Languages: Java
 * Frameworks: JUnit
 * Purpose: Failures, @Before, @After, Readers, timing
+
+**Day 11**: Pi Estimating
+* Languages: Bash
+* Frameworks: None
+* Purpose: File handling, approximation algorithms

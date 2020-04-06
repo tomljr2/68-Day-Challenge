@@ -71,3 +71,8 @@ for the internship and possibly my future at NASA.
 * Languages: Bash
 * Frameworks: None
 * Purpose: File handling, approximation algorithms
+
+**Day 12**: Fermat's Primality Test
+* Languages: Bash
+* Frameworks: None
+* Purpose: Additional Bash experience

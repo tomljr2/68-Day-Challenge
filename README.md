@@ -76,3 +76,8 @@ for the internship and possibly my future at NASA.
 * Languages: Bash
 * Frameworks: None
 * Purpose: Additional Bash experience
+
+**Day 12**: Game show door switching
+* Languages: Bash
+* Frameworks: None
+* Purpose: Additional Bash experience

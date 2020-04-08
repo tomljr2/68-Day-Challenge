@@ -81,3 +81,8 @@ for the internship and possibly my future at NASA.
 * Languages: Bash
 * Frameworks: None
 * Purpose: Additional Bash experience
+
+**Day 14**: Jenkins overview
+* Languages: None
+* Frameworks: Jenkins
+* Purpose: Jenkins, continuous integration, continuous delivery, waterfall, agile, devops

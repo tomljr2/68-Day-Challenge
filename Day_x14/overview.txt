@@ -1,0 +1,33 @@
+Jenkins Overview
+Justin Tomlinson
+
+I will not be coding today, instead I have spent some time in learning Jenkins.
+Today is just an overview and so I will write a summary of what I have
+learned, tomorrow will hopefully involve more coding.
+
+To begin, we need to understand the methodology used to get deliver an
+application to a client. The most basic method which stems from traditional
+engineering techniques is the waterfall method. This is done by simply
+learning what the client wants, planning, developing, testing, and delivering
+the product. The beauty of this method is in its simplicity, however, in
+reality it is quite bad in most cases for software development. So much of
+it relies on the end product being what the user wants, and if it is not,
+then a massive amount of work needs to be redone.
+
+Agile is a far more common method that fixes many of the flaws of waterfall.
+It is a method that involves the client constantly with the development
+process so that any changes that need to be made, are done so quickly and
+they are always relatively small and not very time-consuming.
+
+DevOps is an extension of agile, which keeps that same client-developer
+relationship intact, but now addresses an additional issue that agile did
+not. The relationship between development and the operations. It uses a
+clean loop of planning, devlopment, testing, integrating, deployment,
+operation, monitoring, and back to planning. Jenkins plays the role of
+integration in the DevOps method.
+
+Jenkins allows developers to make their changes to a repository and if
+their changes build successfully, the new code is passed on to the
+operations. If it fails, it can go back to the developer. This process
+of being able to constantly make new changes to the software and
+deliver it to operations is known as continuous integration / delivery.

@@ -91,3 +91,14 @@ for the internship and possibly my future at NASA.
 * Languages: Java
 * Frameworks: JUnit
 * Purpose: Working with old code
+
+#
+
+Break to focus on end of semester work.
+
+#
+
+**Day 35**: Jenkins Setup
+* Languages: Java, Bash
+* Frameworks: Jenkins
+* Purpose: Jenkins jobs, users, plugins, permissions, automation

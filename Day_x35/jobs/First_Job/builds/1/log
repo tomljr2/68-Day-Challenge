@@ -1,0 +1,10 @@
+Started by user [8mha:////4PxEf2nt/uH1KYQMf6/rO5zSiUoirAm5VscN5f2wMWhsAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL9kvzcnKwiIwBuRwb9wgAAAA==[0mJustin Tomlinson
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\First_Job
+[First_Job] $ cmd /c call C:\WINDOWS\TEMP\jenkins1357825755498507808.bat
+
+C:\Program Files (x86)\Jenkins\workspace\First_Job>echo "Hello Jenkins World!"  
+"Hello Jenkins World!" 
+
+C:\Program Files (x86)\Jenkins\workspace\First_Job>exit 0 
+Finished: SUCCESS

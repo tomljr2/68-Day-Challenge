@@ -1,0 +1,36 @@
+Started by user [8mha:////4PxEf2nt/uH1KYQMf6/rO5zSiUoirAm5VscN5f2wMWhsAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL9kvzcnKwiIwBuRwb9wgAAAA==[0mJustin Tomlinson
+Running as SYSTEM
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\Git Job
+using credential 40e6a869-b36b-4ee6-a2ab-4095f4b4a2b0
+Cloning the remote Git repository
+Cloning repository https://github.com/rchidana/JavaHello.git
+ > git.exe init C:\Program Files (x86)\Jenkins\workspace\Git Job # timeout=10
+Fetching upstream changes from https://github.com/rchidana/JavaHello.git
+ > git.exe --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git.exe fetch --tags --force --progress -- https://github.com/rchidana/JavaHello.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/rchidana/JavaHello.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/rchidana/JavaHello.git # timeout=10
+Fetching upstream changes from https://github.com/rchidana/JavaHello.git
+using GIT_ASKPASS to set credentials 
+ > git.exe fetch --tags --force --progress -- https://github.com/rchidana/JavaHello.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 129cc3e777fffc33407798f5d685df7b0bd15736 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 129cc3e777fffc33407798f5d685df7b0bd15736 # timeout=10
+Commit message: "Update Hello.java"
+First time build. Skipping changelog.
+[Git Job] $ cmd /c call C:\WINDOWS\TEMP\jenkins4843443715510035024.bat
+
+C:\Program Files (x86)\Jenkins\workspace\Git Job>javac Hello.java 
+'javac' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Program Files (x86)\Jenkins\workspace\Git Job>java Hello 
+Error: Could not find or load main class Hello
+
+C:\Program Files (x86)\Jenkins\workspace\Git Job>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

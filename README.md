@@ -106,3 +106,14 @@ Break to focus on end of semester work.
 * Languages: Java, Bash
 * Frameworks: Jenkins
 * Purpose: Jenkins jobs, users, plugins, permissions, automation
+
+**Day 36**: Jenkins Agents
+* Languages: Bash
+* Frameworks: Jenkins
+* Purpose: Jenkins agents, backups
+
+**Day 37**: Jenkins Pipelines 
+* Languages: Groovy
+* Frameworks: Jenkins
+* Purpose: Jenkins scripted pipelines, declarative pipeline, parallel pipelines
+
